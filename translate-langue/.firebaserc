@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mesage-translate": {
+      "hosting": {
+        "translate-langue": [
+          "mesage-translate"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mesage-translate"
+  }
+}
